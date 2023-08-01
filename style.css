@@ -1,0 +1,20 @@
+*
+{
+    background-color: grey;
+    align-items: center;
+}
+
+div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: rgb(27, 4, 109);
+    color:#fa9898;
+    border: none;
+    outline: none;
+    border-radius:5px;
+}
